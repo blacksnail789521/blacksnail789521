@@ -14,7 +14,7 @@ If you’re interested in collaboration, feel free to contact me at [blacksnail7
 
 ![Ching (Jason) Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacksnail789521&show_icons=true&count_private=true&theme=vision-friendly-dark) -->
 
-# 👋 Hello! I'm Ching (Jason) Chang
+# 👋 Hello! I'm Ching (Jason) Chang ![](https://komarev.com/ghpvc/?username=blacksnail789521)
 
 🎓 I am a **PhD candidate (ABD)** in Computer Science at **National Yang Ming Chiao Tung University (NYCU)**, Taiwan,  
 advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/).  
