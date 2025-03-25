@@ -22,8 +22,6 @@ advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/).
 🌍 Currently, I am a **Visiting Graduate Researcher** in Computer Science at **UCLA**,  
 working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
----
-
 ## 🧠 Research Interests
 
 My research focuses on:
@@ -37,13 +35,9 @@ I have published multiple papers in top AI and data science conferences and jour
 
 [![Google Scholar](https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google%20citations)](https://scholar.google.com/citations?user=OXCVj48AAAAJ)
 
----
-
 ## 📝 Academic Service
 
 I have served as a reviewer for top-tier conferences and journals in the field.
-
----
 
 ## 🤝 Let's Connect
 
@@ -54,8 +48,6 @@ If you’re interested in collaboration, feel free to contact me:
 - [🔗 LinkedIn](https://www.linkedin.com/in/ching-chang/)
 - [📄 Resume](https://drive.google.com/file/d/1eRdYM8OSQdDivrsxibaa-aeC_EphcOlx/view?usp=sharing)
 - [📚 Google Scholar](https://scholar.google.com.tw/citations?user=OXCVj48AAAAJ)
-
----
 
 ## 📊 GitHub Stats
 
