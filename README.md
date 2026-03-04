@@ -19,4 +19,4 @@ If you’re interested in collaboration, feel free to contact me:
 
 ## 📊 GitHub Stats
 
-![Ching (Jason) Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacksnail789521&show_icons=true&count_private=true&theme=vision-friendly-dark)
+![Ching (Jason) Chang's GitHub stats](./profile/stats.svg)
