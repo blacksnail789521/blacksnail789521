@@ -12,7 +12,7 @@ If you’re interested in collaboration, feel free to contact me:
 - 📬 **Email**: [blacksnail789521@gmail.com](mailto:blacksnail789521@gmail.com)  
 - 🌐 **Website**: [blacksnail789521.github.io](https://blacksnail789521.github.io/)
 - 💼 **LinkedIn**: [Ching (Jason) Chang](https://www.linkedin.com/in/ching-chang/)
-- 📄 **Resume**: [View PDF](https://drive.google.com/file/d/1eRdYM8OSQdDivrsxibaa-aeC_EphcOlx/view?usp=sharing)
+- 📄 **Resume**: [View PDF](https://blacksnail789521.github.io/resume/Ching%20Chang_Resume.pdf)
 - 🎓 **Google Scholar**: [Profile](https://scholar.google.com.tw/citations?user=OXCVj48AAAAJ)
 
 ## 📊 GitHub Stats
